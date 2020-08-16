@@ -192,6 +192,8 @@ When we installed arch we actually changed the default shell from bash to zsh, b
   * You could also use `ranger` or `nnn` two fully featured terminal file browsers
 * fd
   * altertnative to `find`, doesn't suck
+* ripgrep
+    * alternative to `find`
 * htop, gtop
   * alternatives to `top`, doesn't suck
 * prettyping
@@ -202,6 +204,13 @@ When we installed arch we actually changed the default shell from bash to zsh, b
   * while much slower than `du` it's great for finding out what's eating storage space
 * [choose](https://github.com/theryangeary/choose)
   * user friendly, simple alternative to awk/cut
+
+## Clipboard interaction
+
+* xclip
+    * a comand-line interface to the clipboard for the X11 
+* wlclipboard
+    * a command-line interface to the clipboard for Wayland
 
 ## Useful Non-Stock CLI Tools
 
