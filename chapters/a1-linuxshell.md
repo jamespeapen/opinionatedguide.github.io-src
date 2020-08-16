@@ -205,7 +205,9 @@ When we installed arch we actually changed the default shell from bash to zsh, b
 
 ## Useful Non-Stock CLI Tools
 
-* FZF (github.com/junegunn/fzf): A versatile fuzzy finding application that can be used in a wide variety of ways from controlling jobs, and navigating directories to connecting to ssh servers. It is highly configurable and can be integrated into shell scripts to allow fuzzy finding as well as file and folder previews.
+* [FZF](github.com/junegunn/fzf): 
+
+    * A versatile fuzzy finding application that can be used in a wide variety of ways from controlling jobs, and navigating directories to connecting to ssh servers. It is highly configurable and can be integrated into the shell environment through shortcuts that allow fuzzy history search, directory navigation and file access. It can also be used in shell scripts to provide fuzzy search capabilities and has been used to create tools for fuzzy tab-completion and git log searching ([forgit](github.com/wfxr/forgit), [git-fuzzy](github.com/bigH/git-fuzzy)).
 
 * tldr
   
