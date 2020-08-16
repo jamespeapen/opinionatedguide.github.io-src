@@ -171,7 +171,13 @@ Aliases are one way to customize your shell. Most shell customization occurs in 
 
 ## Shell Scripting
 
-[TODO] xargs, sed, awk, fzf, grep,
+* Xargs: capture output from a pipe and use it as an argument. Especially usefull when a command does not accept piped output as input
+
+* sed: a stream editor that can receive piped input. It can be used to select, substitute, add and delete text based on line numbers and regular expressions
+
+* fzf: a fuzzy finder that can use fuzzy matching on streams piped into it 
+
+[TODO] awk, grep
 
 https://shellmagic.xyz/
 
