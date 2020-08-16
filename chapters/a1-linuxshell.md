@@ -194,7 +194,7 @@ When we installed arch we actually changed the default shell from bash to zsh, b
 * bat
   * alternative to `cat`, capable of syntax highlighting and line numbering
 * exa, lsd
-  * alternatives to `ls`, eaiser on the eyes
+  * alternatives to `ls`, easier on the eyes
   * You could also use `ranger` or `nnn` two fully featured terminal file browsers
 * fd
   * altertnative to `find`, doesn't suck
