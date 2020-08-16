@@ -173,8 +173,6 @@ Aliases are one way to customize your shell. Most shell customization occurs in 
 
 [TODO] xargs, sed, awk, fzf, grep,
 
-* FZF (github.com/junegunn/fzf): A versatile fuzzy finding application that can be used in a wide variety of ways from controlling jobs, and navigating directories to connecting to ssh servers. It is highly configurable and can be integrated into shell scripts to allow fuzzy finding as well as file and folder previews.
-
 https://shellmagic.xyz/
 
 https://wiki.bash-hackers.org/
@@ -206,6 +204,8 @@ When we installed arch we actually changed the default shell from bash to zsh, b
   * user friendly, simple alternative to awk/cut
 
 ## Useful Non-Stock CLI Tools
+
+* FZF (github.com/junegunn/fzf): A versatile fuzzy finding application that can be used in a wide variety of ways from controlling jobs, and navigating directories to connecting to ssh servers. It is highly configurable and can be integrated into shell scripts to allow fuzzy finding as well as file and folder previews.
 
 * tldr
   
